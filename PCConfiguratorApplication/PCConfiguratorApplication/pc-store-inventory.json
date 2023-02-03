@@ -1,0 +1,156 @@
+{
+    "CPUs": [
+        {
+            "ComponentType": "CPU",
+            "PartNumber": "12900K",
+            "Name": "Intel® Core™ i9-12900K Processor",
+            "SupportedMemory": "DDR5",
+            "Socket": "LGA1700",
+            "Price": 582.00
+        },
+        {
+            "ComponentType": "CPU",
+            "PartNumber": "12500",
+            "Name": "Intel® Core™ i5-12500 Processor",
+            "SupportedMemory": "DDR5",
+            "Socket": "LGA1700",
+            "Price": 202.00
+        },
+        {
+            "ComponentType": "CPU",
+            "PartNumber": "11900K",
+            "Name": "Intel® Core™ i9-11900K Processor",
+            "SupportedMemory": "DDR4",
+            "Socket": "LGA1200",
+            "Price": 322.00
+        },
+        {
+            "ComponentType": "CPU",
+            "PartNumber": "11700K",
+            "Name": "Intel® Core™ i7-11700K Processor",
+            "SupportedMemory": "DDR4",
+            "Socket": "LGA1200",
+            "Price": 272.00
+        },
+        {
+            "ComponentType": "CPU",
+            "PartNumber": "7950X",
+            "Name": "AMD Ryzen™ 9 7950X",
+            "Socket": "AM5",
+            "SupportedMemory": "DDR5",
+            "Price": 699.00
+        },
+        {
+            "ComponentType": "CPU",
+            "PartNumber": "7900X",
+            "Name": "AMD Ryzen™ 9 7900X",
+            "Socket": "AM5",
+            "SupportedMemory": "DDR5",
+            "Price": 549.00
+        },
+        {
+            "ComponentType": "CPU",
+            "PartNumber": "5500",
+            "Name": "AMD Ryzen™ 5 5500",
+            "Socket": "AM4",
+            "SupportedMemory": "DDR4",
+            "Price": 114.00
+        },
+        {
+            "ComponentType": "CPU",
+            "PartNumber": "5600X",
+            "Name": "AMD Ryzen™ 5 5600X",
+            "Socket": "AM4",
+            "SupportedMemory": "DDR4",
+            "Price": 159.00
+        }
+    ],
+    "Memory": [
+        {
+            "ComponentType": "Memory",
+            "PartNumber": "GS8GB",
+            "Name": "G.Skill 8GB F4-3600C16D-16GVK",
+            "Type": "DDR4",
+            "Price": 50.00
+        },
+        {
+            "ComponentType": "Memory",
+            "PartNumber": "CR8GB",
+            "Name": "Crucial 8GB BLT8G4D30BET4K.C8FD",
+            "Type": "DDR4",
+            "Price": 70.00
+        },
+        {
+            "ComponentType": "Memory",
+            "PartNumber": "KS16GB",
+            "Name": "Kingston 16GB KF560C36BBEK2-32",
+            "Type": "DDR5",
+            "Price": 120.00
+        },
+        {
+            "ComponentType": "Memory",
+            "PartNumber": "SM32GB",
+            "Name": "Samsung 32GB M323R4GA3BB0-CQKOL",
+            "Type": "DDR5",
+            "Price": 170.00
+        }
+    ],
+    "Motherboards": [
+        {
+            "ComponentType": "Motherboard",
+            "PartNumber": "ASX670E",
+            "Name": "ASRock X670E Steel Legend",
+            "Socket": "AM5",
+            "Price": 249.00
+        },
+        {
+            "ComponentType": "Motherboard",
+            "PartNumber": "MSIX670E",
+            "Name": "MSI MPG X670E CARBON WIFI",
+            "Socket": "AM5",
+            "Price": 300.00
+        },
+        {
+            "ComponentType": "Motherboard",
+            "PartNumber": "ASUSB450",
+            "Name": "ASUS TUF B450-PLUS II Gaming",
+            "Socket": "AM4",
+            "Price": 190.00
+        },
+        {
+            "ComponentType": "Motherboard",
+            "PartNumber": "MSIX570",
+            "Name": "MSI MPG X570 Gaming Plus",
+            "Socket": "AM4",
+            "Price": 300.00
+        },
+        {
+            "ComponentType": "Motherboard",
+            "PartNumber": "MSIZ690",
+            "Name": "MSI MAG Z690 TORPEDO",
+            "Socket": "LGA1700",
+            "Price": 359.00
+        },
+        {
+            "ComponentType": "Motherboard",
+            "PartNumber": "ASUSZ690",
+            "Name": "ASUS ROG STRIX Z690-F GAMING WIFI",
+            "Socket": "LGA1700",
+            "Price": 609.00
+        },
+        {
+            "ComponentType": "Motherboard",
+            "PartNumber": "MSIZ590",
+            "Name": "MSI MPG Z590 GAMING FORCE",
+            "Socket": "LGA1200",
+            "Price": 239.00
+        },
+        {
+            "ComponentType": "Motherboard",
+            "PartNumber": "GBB560M",
+            "Name": "GIGABYTE B560M DS3H V2",
+            "Socket": "LGA1200",
+            "Price": 120.01
+        }
+    ]
+}
